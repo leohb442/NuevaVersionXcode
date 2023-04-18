@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "153-1533180_dulces-imagenes-de-perritos-mascotas-en-png-con.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
